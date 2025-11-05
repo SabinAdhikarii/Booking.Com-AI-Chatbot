@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Hotel Reservation Chatbot",
+  "description": "An intelligent AI-powered Hotel Reservation Chatbot using Gemini. Users can search for hotels, view rooms, make bookings, and manage their reservations through a natural conversational interface.",
+  "requestFramePermissions": []
+}
